@@ -14,7 +14,7 @@ Tech used
 * Backend : Django
 How to Install
 Git Clone
-git clone https://github.com/shivaganeshtechis/Electric-Views
+git clone https://github.com/AbhinandVJ6/Melody-Rhythm-Main/tree/main
 Backend setting
 cd backend
 python -m venv env
